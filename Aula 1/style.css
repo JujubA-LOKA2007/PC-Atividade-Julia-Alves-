@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(190, 250, 208);
+    text-align: center;
+    font-family: 'Onest', 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-size: 10vh;
+    color: rgb(13, 151, 36);
+    text-align: center;
+    font-family:"Kaushan Script" , 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-size: 6vh;
+    color: rgb(13, 151, 36);
+    text-align: center;
+    font-family:"Kaushan Script" , 'Courier New', Courier, monospace;
+}
+
+h3{
+    font-size: medium;
+    color: rgb(13, 151, 36);
+    text-align: center;
+    font-family:"Kaushan Script" , 'Courier New', Courier, monospace;
+}
+ 
+#lista1{
+    justify-content: center;
+}
+
+ p{color: rgb(8, 116, 26);
+     text-align: left;
+     font-size: 2vh;
+font-family: 'Onest','Courier New', Courier, monospace;
+margin-top: 3vh;
+margin-bottom: 3vh;
+margin-left: 3vh;
+margin-right: 3vh;
+text-decoration: none;
+ }
+
+ footer{
+     background-color: aquamarine;
+ }
+
+/*/anotações
+font-size: px, em, %, vh(proporcional ao tamanho da página)
+text-aling: left, right, center, justify
+text-decoration(sublinhar)
+font-weight(negrito)
+font-style: italic
+font-family
+
+list-style-type
+list-style-image
+ aumentar tamanho das fontes depois
+/*/
+
